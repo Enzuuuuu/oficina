@@ -4,39 +4,147 @@
     "href": "index.html",
     "title": "Whatsapp",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Apresentação\nO WhatsApp é o aplicativo de mensagens mais usado no Brasil. Com ele é possível conversar por texto, mandar áudios, fotos, vídeos e documentos, fazer ligações de voz e vídeo, participar de grupos e acompanhar as novidades dos contatos.\nEste manual apresenta as principais funções do WhatsApp, uma a uma, com imagens reais das telas. As capturas foram feitas no WhatsApp Web, a versão que funciona no navegador do computador. Sempre que o caminho for diferente no celular, o texto indica os passos para o aplicativo do telefone.",
     "crumbs": [
-      "Preface"
+      "Apresentação"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "basico/perfil.html",
+    "href": "basico/perfil.html",
+    "title": "1  Perfil",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.1 Abrir o perfil\nO perfil reúne as informações que os seus contatos veem sobre você: foto, nome e recado.\nNo celular, o caminho é três pontinhos &gt; Configurações e depois toque na sua foto (Android) ou Configurações &gt; sua foto (iPhone).",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "objectID": "index.html#como-usar",
+    "href": "index.html#como-usar",
+    "title": "Whatsapp",
+    "section": "Como usar?",
+    "text": "Como usar?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "Apresentação"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "objectID": "index.html#como-usar-este-manual",
+    "href": "index.html#como-usar-este-manual",
+    "title": "Whatsapp",
+    "section": "Como usar este manual",
+    "text": "Como usar este manual\nCada capítulo trata de um grupo de funções e pode ser lido sozinho. Quem está começando deve seguir a ordem dos capítulos; quem já usa o WhatsApp pode ir direto ao assunto pelo sumário.\nOs passos aparecem numerados. Os nomes de botões e menus estão em negrito, exatamente como aparecem na tela. As teclas do computador aparecem assim: Ctrl + Alt + N.\n\n\n\n\n\n\nNoteSobre as imagens\n\n\n\nPara proteger a privacidade, nomes, fotos, números de telefone e o conteúdo das conversas foram borrados em todas as capturas. Os menus, botões e textos do próprio aplicativo continuam visíveis.",
     "crumbs": [
-      "References"
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#organização",
+    "href": "index.html#organização",
+    "title": "Whatsapp",
+    "section": "Organização",
+    "text": "Organização\n\n\n\n\n\n\n\nParte\nO que você vai aprender?\n\n\n\n\nPrimeiros Passos\nO que é o WhatsApp, como entrar no WhatsApp Web, a tela inicial e o perfil\n\n\nconversas\nIniciar conversas, escrever, mandar emojis, áudios e arquivos, reagir, responder e organizar\n\n\nGrupos, Comunidades e canais\nCriar grupos, entender comunidades e seguir canais\n\n\nStatus e ligações\nPublicar status e fazer chamadas de voz e vídeo\n\n\nConfigurações e segurança\nAjustar notificações, aparência, privacidade e proteger a conta\n\n\nApêndices\nAtalhos do teclado e glossário de termos",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#organizaç",
+    "href": "index.html#organizaç",
+    "title": "Whatsapp",
+    "section": "Organizaç",
+    "text": "Organizaç",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#organizaçãpo",
+    "href": "index.html#organizaçãpo",
+    "title": "Whatsapp",
+    "section": "Organizaçãpo",
+    "text": "Organizaçãpo",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#abrir-o-perfil",
+    "href": "basico/perfil.html#abrir-o-perfil",
+    "title": "1  Perfil",
+    "section": "",
+    "text": "Clique na sua foto, no canto de baixo da barra lateral (ícone Você). Abre a tela de configurações (Figura 15.1, no Capítulo 15).\nClique em Perfil. Aparece a tela Editar perfil (Figure 1.1 )..\n\n\n\n\n\n\n\n\nFigure 1.1: Figura 3.1: Tela Editar perfil, com foto, recado, nome, nome de usuário e telefone borrados.",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#trocar-a-foto-de-perfil",
+    "href": "basico/perfil.html#trocar-a-foto-de-perfil",
+    "title": "1  Perfil",
+    "section": "1.2 Trocar a foto de perfil",
+    "text": "1.2 Trocar a foto de perfil\n\nNa tela Editar perfil, clique na sua foto.\nEscolha uma das opções:\n\n\nTirar foto: usa a câmera do computador;\nCarregar foto: escolhe uma imagem guardada no computador;\nRemover foto: apaga a foto atual.\n\n\nAjuste o enquadramento arrastando e usando o zoom e clique no botão de confirmação.",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#alterar-o-recado",
+    "href": "basico/perfil.html#alterar-o-recado",
+    "title": "1  Perfil",
+    "section": "1.3 Alterar o recado",
+    "text": "1.3 Alterar o recado\nO recado (chamado de About em algumas versões) é uma frase curta que aparece no seu perfil, como “Disponível” ou “No trabalho”.\n\nClique no lápis ao lado do recado atual.\nApague o texto, escreva o novo recado e pressione Enter.",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#section",
+    "href": "basico/perfil.html#section",
+    "title": "1  Perfil",
+    "section": "1.4 ",
+    "text": "1.4",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#al",
+    "href": "basico/perfil.html#al",
+    "title": "1  Perfil",
+    "section": "1.4 Al",
+    "text": "1.4 Al",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#alterar-o-nome",
+    "href": "basico/perfil.html#alterar-o-nome",
+    "title": "1  Perfil",
+    "section": "1.4 Alterar o nome",
+    "text": "1.4 Alterar o nome\nO nome aparece para quem não tem o seu número salvo na agenda e nas notificações de quem recebe suas mensagens.\n\nClique no lápis ao lado de Nome.\nEscreva o novo nome e pressione Enter.",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
+    ]
+  },
+  {
+    "objectID": "basico/perfil.html#nome-de-usuário-e-telefone",
+    "href": "basico/perfil.html#nome-de-usuário-e-telefone",
+    "title": "1  Perfil",
+    "section": "1.5 Nome de usuário e telefone",
+    "text": "1.5 Nome de usuário e telefone\n\nNome de usuário reservado: um apelido único, começando com @, que permite que outras pessoas encontrem você sem saber o seu número.\nTelefone: o número ligado à conta. O botão ao lado copia o número. Ele não pode ser trocado por aqui; a troca de número é feita no celular, em Configurações &gt; Conta &gt; Mudar número.\n\n\n\n\n\n\n\nNote\n\n\n\nQuem vê o quê\nQuem pode ver a sua foto, o recado e o horário em que você esteve on-line é definido na tela de privacidade (Capítulo 16).",
+    "crumbs": [
+      "Primeiros Passos",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Perfil</span>"
     ]
   }
 ]

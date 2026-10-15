@@ -7,7 +7,11 @@ book:
   date: "15/10/2026"
   chapters:
     - index.qmd
-    - references.qmd
+    - part: "Primeiros Passos"
+      chapters:
+ 
+      - references.qmd
+      - basico/perfil.qmd
 
 bibliography: references.bib
 
